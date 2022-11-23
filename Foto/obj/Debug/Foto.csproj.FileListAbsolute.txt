@@ -1,0 +1,10 @@
+C:\Users\Comp\source\repos\Foto\Foto\bin\Debug\Foto.exe.config
+C:\Users\Comp\source\repos\Foto\Foto\bin\Debug\Foto.exe
+C:\Users\Comp\source\repos\Foto\Foto\bin\Debug\Foto.pdb
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.csprojResolveAssemblyReference.cache
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.Form1.resources
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.Properties.Resources.resources
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.csproj.GenerateResource.Cache
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.exe
+C:\Users\Comp\source\repos\Foto\Foto\obj\Debug\Foto.pdb
